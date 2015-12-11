@@ -1,0 +1,14 @@
+{
+  "name": "google-calendar-twilio",
+  "version": "0.0.1",
+  "dependencies": {
+    "config": "^1.17.1",
+    "cron": "^1.1.0",
+    "express": "^4.13.3",
+    "googleapis": "^2.1.6",
+    "moment": "^2.10.6",
+    "moment-timezone": "^0.4.1",
+    "mysql": "felixge/node-mysql",
+    "twilio": "^2.6.0"
+  }
+}
